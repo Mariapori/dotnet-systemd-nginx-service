@@ -1,5 +1,4 @@
 #!/bin/sh
-# Script to turn lead into gold
 # Copyright (C) 2022 Topias Mariapori (topias@mariapori.fi)
 # Permission to copy and modify is granted under the MIT license
 # Last revised 25.10.2022
