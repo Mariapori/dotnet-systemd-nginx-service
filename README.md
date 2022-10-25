@@ -6,4 +6,4 @@ Script for creating nginx reverse proxy and systemd service automatic
 
 chmod +x install.sh
 
-sudo .\install.sh
+sudo ./install.sh
